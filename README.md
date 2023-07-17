@@ -12,3 +12,5 @@ Installation:
 3. Gib in der Konsole/Client folgenden Befehl ein: "/ex reload"
 
 4. Enjoy!
+
+Fall du Fehler im Script gefunden hast oder Probleme mit dem Script hast (Installieren oder bei der Benutzung etc), bitte wende dich an mich (Discord: afkharin#9868)
